@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+projects/
+state/
+exports/
+backups/
+.claude/skills/
+.opencode/skills/
+*.log
